@@ -1,0 +1,9 @@
+{
+    "gym_name": "Dronacharya Gym",
+    "currency": "Rs.",
+    "theme": "dark",
+    "split_type": "fy",
+    "current_year": "FY_2026-27",
+    "photo_dir": "data/photos",
+    "gym_address": "Bhilai"
+}
